@@ -2,4 +2,4 @@
 
 Deploying my own Rocket.Chat server instance with Docker & Docker Compose 
 
-Deploying my own Rocket.Chat server instance with Google Compute Engine and making into public available
+Deploying my own Rocket.Chat server instance with Google Compute Engine and making public available
